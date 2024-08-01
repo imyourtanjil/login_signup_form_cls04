@@ -146,7 +146,7 @@ img.google-img{
     position: absolute;
     top: 50%;
     left: 15px;
-    transform: translateY(-50%); /* helped from google */
+    transform: translateY(-50%);
 }
 
 img.google-img{
